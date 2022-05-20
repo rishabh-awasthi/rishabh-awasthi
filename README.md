@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishabh-awasthi (Experienced Enterprise Grade Application Developer)
-- 👀 I’m developing modern web apps, Single Page Applications(SPAs), Web & Mobile Apps Developement
+- 👀 I’m developing modern Web & Mobile Applications using Angular.
 - 🌱 I’m currently learning Ionic and Cloud Technologies like AWS, Google Cloud, Firebase
 - 📫 You can reach out to me for any kind of work you would like to collaborate 
 
